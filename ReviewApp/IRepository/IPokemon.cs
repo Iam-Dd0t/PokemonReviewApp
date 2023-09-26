@@ -1,7 +1,7 @@
 ﻿namespace PokemonReviewApp.IRepository
 {
-    public class IPokemon
+    public interface IPokemon
     {
-
+        
     }
 }
